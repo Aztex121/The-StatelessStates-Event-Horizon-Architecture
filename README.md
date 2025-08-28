@@ -2,7 +2,7 @@
 *Where Security Meets Singularity*  
 
 **Status:** Conceptual Blueprint  
-**Entity:** Edward Ferri - The StatelessStates
+**Entity:** Edward Ferrari - The StatelessStates
 **Version:** 0.9-alpha  
 **Type:** Sovereign AI Infrastructure  
 
