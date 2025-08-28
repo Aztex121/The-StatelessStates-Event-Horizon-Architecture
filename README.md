@@ -159,5 +159,7 @@ When multiple EHAs interconnect through point-to-point corridors, they form an *
 - **Public Availability:** Conceptual overview only.  
 - **Full Access:** NDA + strategic partner agreement required.
 
-- Contact: Edward Ferrari Mail: NordicCircle@proton.me
+- Contact: Edward Ferrari
+- Mail: NordicCircle@proton.me
+- 
 
