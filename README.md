@@ -2,7 +2,7 @@
 *Where Security Meets Singularity*  
 
 **Status:** Conceptual Blueprint  
-**Entity:** Genesis Systems  
+**Entity:** Exward Ferri - The StatelessStates
 **Version:** 0.9-alpha  
 **Type:** Sovereign AI Infrastructure  
 
@@ -158,4 +158,6 @@ When multiple EHAs interconnect through point-to-point corridors, they form an *
 - **Current Status:** 0.9 alpha (internal manuscript + architecture overlays).  
 - **Public Availability:** Conceptual overview only.  
 - **Full Access:** NDA + strategic partner agreement required.
+
+- Contact: Edward Ferrari Mail: NordicCircle@proton.me
 
