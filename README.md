@@ -161,5 +161,4 @@ When multiple EHAs interconnect through point-to-point corridors, they form an *
 
 - Contact: Edward Ferrari
 - Mail: NordicCircle@proton.me
-- 
-
+©2025
